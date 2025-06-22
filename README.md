@@ -1,4 +1,4 @@
-# lawers
+# lawyers
 web applications for lawyers society
 
 # Implementation:
